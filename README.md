@@ -22,3 +22,17 @@ Tech Stack --
     - Frontend : Streamlit
     - Backend/AI : Google Gemini 2.5 Pro API  
     - Language :  Python
+
+Usage -- 
+
+    - Enter the meeting transcript into the box
+    - Click "GENERATE MEETING NOTES" located just below the box
+    - View : 
+        - Meeting Summary
+        - Key Decisions
+        - Action Items / To-Do List 
+
+Demo -- To watch a demo/working of the project, kindly watch the video uploaded in my repository
+
+Team Agenda AI -- 
+    - Contributors > Mohammed Rayyan Aamir Ansari
